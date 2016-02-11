@@ -1,0 +1,22 @@
+{
+  "name": "stepback",
+  "version": "1.0.0",
+  "description": "Lists last 5 visited bracnhes - allows you to checkout the needed one",
+  "repository": "https://github.com/DKunin/stepback",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "DKunin",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^0.12.0",
+    "shelljs": "^0.6.0"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "preferGlobal": "true",
+  "bin": {
+    "stepback": "./index.js"
+  }
+}
