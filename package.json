@@ -1,6 +1,6 @@
 {
   "name": "stepback",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Lists last 5 visited bracnhes - allows you to checkout the needed one",
   "repository": "https://github.com/DKunin/stepback",
   "main": "index.js",

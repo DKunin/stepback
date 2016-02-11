@@ -27,5 +27,3 @@ Navigate to the needed branch, hit enter and the selected branch will be checked
 
 MIT © [Dmitri Kunin](http://dkun.in)
 
-<img src="http://dkunin.github.io/public/images/logo.svg" alt="logo" style="width: 200px;display: block;"/>
-
